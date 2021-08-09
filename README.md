@@ -8,7 +8,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="yoda" src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F213232226_370229418020353_879844416293667162_n.jpg%3Fccb%3D11-4%26oh%3D9f82bbcbc6bd8fff9f133549208892cf%26oe%3D6116A604&amp;t=l&amp;u=554784296834%40c.us&amp;i=1625368636&amp;n=YeDd5euAoPP3kUVeuOkZ%2Bg0GSeMYilVa4ECN87HlMCM%3D">
+  <img align="right" alt="yoda" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
 </div>
 
   ##
