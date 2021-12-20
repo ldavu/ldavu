@@ -20,5 +20,5 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ldavu/ldavu/blob/output/github-contribution-grid-snake.svg)
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ldavu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C264D64&border=08DD13&stroke=37DDB3&fire=FF2D2DC0&dates=61DDB1C0)]
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ldavu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2C264D64&border=08DD13&stroke=37DDB3&fire=FF2D2DC0&dates=61DDB1C0)
 </div>
