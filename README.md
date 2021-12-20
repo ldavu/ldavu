@@ -2,7 +2,6 @@
   <a href="https://github.com/ldavu">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ldavu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldavu&layout=compact&langs_count=7&theme=tokyonight"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
     
 </div>
@@ -24,5 +23,6 @@
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ldavu/ldavu/blob/output/github-contribution-grid-snake.svg)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
