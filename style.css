@@ -1,0 +1,26 @@
+html 
+{
+ overflow: auto;
+}
+ 
+html, body, div, iframe 
+{
+ margin-right: 10px;
+ margin-left: 10px; 
+ padding: 0px; 
+ height: 100%; 
+ border: none;
+}
+
+.segundo {
+    margin-top: 50px;
+}
+
+iframe 
+{
+ display: block; 
+ width: 100%; 
+ border: none; 
+ overflow-y: auto; 
+ overflow-x: hidden;
+}
